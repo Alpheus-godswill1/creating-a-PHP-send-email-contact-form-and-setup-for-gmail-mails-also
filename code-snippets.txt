@@ -8,7 +8,7 @@ uncomment --> extension=php_openssl.dll
 Step 2
 ======
 
-Add the following code:
+replace the following code: on the [mail function] in the php.ini file (in C:\xampp\php\php.ini),with the  code below remember to change the email_address to yours.
 
 [mail function]
 SMTP=smtp.gmail.com
